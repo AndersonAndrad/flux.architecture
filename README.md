@@ -14,9 +14,9 @@ The intention of the project was to study how the flux architecture works. For t
 
 ### how to works
 
-![](C:\Users\Ander\Documents\Projects\Bootcamp\older\flux.architecture\rocketshoes\images\home.png)
+![](https://github.com/AndersonAndrad/flux.architecture/blob/master/images/home.png)
 
-![](C:\Users\Ander\Documents\Projects\Bootcamp\older\flux.architecture\rocketshoes\images\car.png)
+![](https://github.com/AndersonAndrad/flux.architecture/blob/master/images/car.png)
 
 When added the items go directly to the cart passing the value and the quantity of items
 
